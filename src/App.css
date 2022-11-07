@@ -25,7 +25,7 @@ a {
   margin: 10px;
   font-size: 25px;
 }
-/* 
+
 .createPostPage {
   width: 100%;
   height: calc(100vh - 80px);
@@ -96,10 +96,11 @@ textarea {
 
 .loginPage p {
   font-size: 30px;
-} */
+}
 
 /* GOOGLE BUTTOn */
-/* .login-with-google-btn {
+
+.login-with-google-btn {
   cursor: pointer;
   transition: background-color 0.3s, box-shadow 0.3s;
   padding: 5px 16px 12px 42px;
@@ -186,4 +187,4 @@ textarea {
   width: 100%;
   overflow: hidden;
   overflow-y: auto;
-} */
+}
